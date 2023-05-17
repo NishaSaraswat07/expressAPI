@@ -13,7 +13,7 @@ This project contains a simple REST API for movies. It is written in Node.js and
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `apiKey` | `string` | **Required**. Your API key |
+| `apiKey` | `string` | **Required**. 420 |
 
 #### Get movie
 
